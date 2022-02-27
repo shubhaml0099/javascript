@@ -1,0 +1,28 @@
+
+/* 
+selector {
+    property:value
+} */
+
+h1 {
+    color:purple;
+    background-color: aqua;
+    height:100px;
+    width:300px;
+    
+}
+
+.red {
+    color:red;
+    background-color:antiquewhite;
+}
+.green {
+    color:green;
+    background-color:antiquewhite;
+
+}
+
+#para2 {
+    color:purple;
+    background-color:antiquewhite;
+}

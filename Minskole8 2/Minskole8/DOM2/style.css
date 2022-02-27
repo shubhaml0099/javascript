@@ -1,0 +1,22 @@
+h1 {
+    color:red;
+    background-color: yellowgreen;
+}
+
+/* li {
+    color:#ff0000
+} */
+
+.colorYellow {
+    color:yellowgreen;
+    /* background-color:red; */
+    
+}
+
+.colorPurple {
+    color:purple
+}
+
+#diff {
+    color:blue
+}

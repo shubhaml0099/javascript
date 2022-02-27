@@ -1,0 +1,16 @@
+h1{
+    color: hotpink;
+
+}
+
+/* for class we take .and name */
+.red{
+    color: rgb(202, 21, 21);
+}
+/* for id  we take # and name  */
+#green{
+    color: darkgreen;
+}
+ul{
+    background-color: darkorange;
+}

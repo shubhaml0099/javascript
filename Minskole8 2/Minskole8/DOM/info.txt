@@ -1,0 +1,18 @@
+
+
+// html ---- to show the text
+// tags --- useful for selection
+// css - to add the styling and design 
+// javscript based on useraction , change property of an element
+
+
+// HTMLelement
+
+
+
+
+
+
+
+
+

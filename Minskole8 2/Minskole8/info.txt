@@ -1,0 +1,18 @@
+//node install
+
+// visual studio  code
+
+//  create desktop 
+
+// open via visual studio code
+
+// pancard.pdf
+
+// abc.docx
+
+// abc.xls
+
+// info.txt
+
+
+// script.js
