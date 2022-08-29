@@ -117,12 +117,12 @@ if (gender=='male'){
 // let a2=dd.slice(1,-2)// at the time of giving negative index no we shud give starting no first or smallest no first//
 // console.log(a2)
 
-// let car_prise=20001
-// let x=car_prise
-// if(x>20000 && x<40000){
-//     console.log('lowrange car')
-// }else if (x>=40000){
-//     console.log('high range car')
-// }else{
-//     console.log('this range car is not available')
-// }
+let car_prise=20001
+let x=car_prise
+if(x>20000 && x<40000){
+    console.log('lowrange car')
+}else if (x>=40000){
+    console.log('high range car')
+}else{
+    console.log('this range car is not available')
+} 
