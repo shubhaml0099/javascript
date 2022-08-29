@@ -31,4 +31,8 @@
      console.log(10!=='10')  // true
      
 
+     console.log( null && 6)
+     console.log('2'== 2)
+     console.log('2'=== 2)
+    console.log('two'== 2)
 
