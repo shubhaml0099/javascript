@@ -140,7 +140,6 @@ console.log(country) //["India","USA","Japan","China"]
 let ff = country.indexOf('india')
 console.log(ff) // 0
 
-
 // Method - includes()
 // action - search the for element
 // return  - if the element is found returns true else return false

@@ -1,20 +1,20 @@
-// program 1
-let randomNumber = Math.floor(Math.random()* 6) + 1 //  1 - 6// 0 to 5  // 0 to 5.99
-console.log(randomNumber)
-let userInput = Number(prompt('Please Guess the Number from 1 to 6'))
-if(userInput ==  randomNumber){
-    console.log('You Guess the number right !')
-}
-else {
-    console.log('Your Guess is incorrect ')
-}
+// // program 1
+// let randomNumber = Math.floor(Math.random()* 6) + 1 //  1 - 6// 0 to 5  // 0 to 5.99
+// console.log(randomNumber)
+// let userInput = Number(prompt('Please Guess the Number from 1 to 6'))
+// if(userInput ==  randomNumber){
+//     console.log('You Guess the number right !')
+// }
+// else {
+//     console.log('Your Guess is incorrect ')
+// }
 
 
 // program 2
 
-let randomNumber = Math.floor(Math.random()* 6) + 1
+let randomNumber1 = Math.floor(Math.random()* 6) + 1
 console.log(randomNumber)
-let userInput
+let userInput1
 let count = 3
 
 for(let i = 0 ; i < 3 ; i++){
